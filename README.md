@@ -9,8 +9,6 @@ This is an interactive timer game built with React. The project showcases React 
 
 ## Getting Started
 
-### 1. Install dependencies
-
 Before running the project, install all necessary dependencies by running the following command in your terminal:
 
 ```npm install```
